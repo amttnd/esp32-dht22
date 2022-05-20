@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "pubsubclient.h": "c",
+    "chrono": "c"
+  }
+}
